@@ -1,6 +1,6 @@
 # Projects in DataRockie Bootcamp
 Hi there! 
-These are the collection of my favourite projects/homeworks I have done in datarockie bootcamp for a past 4 months.
+These are the collection of my favourite projects/homeworks I have done in datarockie bootcamp in a past 4 months.
 ### SQL
 **main.sql** - Creating a small database of a restaurant containing of 5 dim tables and 1 fact table, also did some analyze on those.
 ### R
