@@ -11,4 +11,5 @@ These are my favourite projects/homeworks I have done in datarockie bootcamp in 
 <br>**Homework_Flights_exploring.ipynb** - Explore the flight data with dplyr answering five questions.</br>
 <br>**Logistic_regression_titanic.ipynb** - Building a model predicting whether the passenger will survive using logistic regression by R.</br>
 ### Python
-**sales_analysis.ipynb** - The Final Project, analyze sales data with python and pandas
+<br>**sales_analysis.ipynb** - The Final Project, analyze sales data with python and pandas</br>
+<br>**basic_python.ipynb** - Building rock, paper, scissor and atm class with OOP having at least 5 methods. </br>
