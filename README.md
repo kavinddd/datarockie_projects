@@ -14,3 +14,4 @@ These are my favourite projects/homeworks I have done in datarockie bootcamp in 
 <br>**sales_analysis.ipynb** - The Final Project, analyze sales data with python and pandas</br>
 <br>**basic_python.ipynb** - Building rock, paper, scissor and atm class with OOP having at least 5 methods. </br>
 <br>**Pokemon_API.ipynb** - Using any API, retrieve data and build a data frame of the data</br>
+<br>**machine_learning_python.ipynb** - Practice building machine learning models with scikit-learn in Python </br>
