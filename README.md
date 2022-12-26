@@ -2,7 +2,7 @@
 Hi there! 
 These are my favourite projects/homeworks I have done in datarockie bootcamp in a past 4 months.
 ### SQL
-**main.sql** - Creating a small database of a restaurant containing of 5 dim tables and 1 fact table, also did some analyze on those, I do like this one the most
+**[main.sql](main.sql)** - Creating a small database of a restaurant containing of 5 dim tables and 1 fact table, also did some analyze on those, I do like this one the most
 ### R
 <br>**PaoYingChub.r** - A scissor paper rock game using R fundamental.</br>
 <br>**chatbot.r** - A chat bot of a pizza restaurant using R fundamental.</br>
