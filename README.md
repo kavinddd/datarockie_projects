@@ -15,3 +15,6 @@ These are my favourite projects/homeworks I have done in datarockie bootcamp in 
 <br>**[basic_python.ipynb](basic_python.ipynb)** - Building rock, paper, scissor and atm class with OOP having at least 5 methods. </br>
 <br>**[Pokemon_API.ipynb](Pokemon_API.ipynb)** - Using any API, retrieve data and build a data frame of the data</br>
 <br>**[machine_learning_python.ipynb](machine_learning_python.ipynb)** - Practice building machine learning models with scikit-learn in Python </br>
+### Dashboard
+Looker Studio/Google Data Studio - **[Hotel Booking](https://datastudio.google.com/reporting/224a1334-f675-4b7c-a827-e1f4d7b4c7d0/page/kmz8C)**  
+Tableu Public - **[Cat Vs Dog](https://public.tableau.com/app/profile/prommest.kavindechatorn/viz/cat_dog_household/Dashboard1)**
